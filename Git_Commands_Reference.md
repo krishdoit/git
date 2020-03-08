@@ -9,7 +9,7 @@ GLOBAL: User home dir [.gitconfig] at user level
 
 $ git config --global user.name "balakrishna_g" 
 
-$ git config --global user.email karanam_bala_krishna@outlook.com
+$ git config --global user.email balakrishna@xxx.com
 
 $ git config --global --list
 
