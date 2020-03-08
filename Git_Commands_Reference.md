@@ -46,11 +46,11 @@ $ git log           // Displays the commit history
 
 $ git log --oneline             // Displays the commit history in simple format in the current branch
 
-$ git log -n <number of commits history to display>     //  1/2/3..
+$ git log -n < number of commit_history >     //  1/2/3..
 
-$ git log --since=<YYYY-MM-DD>   // Displays commit history since and until the dates specified
+$ git log --since=< YYYY-MM-DD >   // Displays commit history since and until the dates specified
 
-$ git log --until=<YYYY-MM-DD> 
+$ git log --until=< YYYY-MM-DD > 
 
 $ git log HEAD      // Display commits from the current HEAD - Tip of the current branch
 
