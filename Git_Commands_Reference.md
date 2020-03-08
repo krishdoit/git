@@ -168,10 +168,9 @@ $ git pull  //   git fetch + git merge
             //   Means, get the latest updates by others to local copy of the repository from remote repository and 
             //   merge it
 
-
 # Renaming and Deleting
 
-$ git mv <filename>
+$ git mv <filename(s)>
 
 $ git rm <file(s)>
 
